@@ -1,0 +1,7 @@
+GIS file used: ./data/NM_10000.txt
+Table building: 10000 / 10000
+Search testing: 1731 / 1731
+>>Scores from testing<<
+1 >> Score for building:  100.00
+2 >> Score for searching: 100.00
+3 >> Weighted score:      100.00
